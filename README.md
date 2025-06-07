@@ -4,7 +4,22 @@ Welcome to my collection of Python mini-projects! Each project is crafted with c
 
 ## 🎯 Project Collection
 
-### 1. 🎪 **Blind Auction**
+### 1. 🎰 **Blackjack**
+Test your luck and strategy in this classic card game!
+
+**Features:**
+- 🎲 Realistic card dealing
+- 🃏 Ace handling (1 or 11)
+- 🎮 Player vs Computer gameplay
+
+**How to Run:**
+```bash
+cd "Blackjack"
+python blackjack.py
+```
+
+
+### 2. 🎪 **Blind Auction**
 A sneaky auction program where everyone bids in secret!
 
 **Features:**
@@ -18,7 +33,7 @@ cd "Blind Auction"
 python blind_auction.py
 ```
 
-### 2. 🔐 **Caesar Cipher**
+### 3. 🔐 **Caesar Cipher**
 Ancient Roman encryption meets modern Python! Encode and decode secret messages.
 
 **Features:**
@@ -32,7 +47,7 @@ cd "Caesar Cipher"
 python caesar_cipher.py
 ```
 
-### 3. 🧮 **Calculator**
+### 4. 🧮 **Calculator**
 A sleek calculator that handles your math needs with style!
 
 **Features:**
@@ -46,7 +61,7 @@ cd Calculator
 python calculator.py
 ```
 
-### 4. 🎯 **Hangman**
+### 5. 🎯 **Hangman**
 The classic word-guessing game! Can you save the stick figure?
 
 **Features:**
@@ -60,7 +75,7 @@ cd Hangman
 python hangman.py
 ```
 
-### 5. 🔑 **Password Generator**
+### 6. 🔑 **Password Generator**
 Create bulletproof passwords!
 
 **Features:**
@@ -74,7 +89,7 @@ cd "Password Generator"
 python password_generator.py
 ```
 
-### 6. ✂️ **Rock Paper Scissors**
+### 7. ✂️ **Rock Paper Scissors**
 The timeless battle of hand gestures against the computer!
 
 **Features:**
@@ -88,7 +103,7 @@ cd "Rock Paper Scissors"
 python rock_paper_scissors.py
 ```
 
-### 7. 💰 **Tip Calculator**
+### 8. 💰 **Tip Calculator**
 Never struggle with restaurant math again!
 
 **Features:**
@@ -102,7 +117,7 @@ cd "Tip Calculator"
 python tip_calculator.py
 ```
 
-### 8. 🏴‍☠️ **Treasure Island**
+### 9. 🏴‍☠️ **Treasure Island**
 An epic text-based adventure where your choices determine your fate!
 
 **Features:**
@@ -120,6 +135,7 @@ python treasure_island.py
 ## 📁 Repository Structure
 ```
 python-projects/
+├── Blackjack/
 ├── Blind Auction/
 ├── Caesar Cipher/
 ├── Calculator/
