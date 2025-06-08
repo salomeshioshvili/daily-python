@@ -75,7 +75,22 @@ cd Hangman
 python hangman.py
 ```
 
-### 6. 🔑 **Password Generator**
+### 6. 🔢 **Number Guessing Game**
+Test your intuition and guess the number the computer is thinking of!
+
+**Features:**
+- 🎯 Multiple difficulty levels (easy and hard)
+- 🔄 Attempts tracking
+- 💡 Hints for higher or lower guesses
+
+**How to Run:**
+```bash
+cd "Number Guessing"
+python number_guessing.py
+```
+
+
+### 7. 🔑 **Password Generator**
 Create bulletproof passwords!
 
 **Features:**
@@ -89,7 +104,7 @@ cd "Password Generator"
 python password_generator.py
 ```
 
-### 7. ✂️ **Rock Paper Scissors**
+### 8. ✂️ **Rock Paper Scissors**
 The timeless battle of hand gestures against the computer!
 
 **Features:**
@@ -103,7 +118,7 @@ cd "Rock Paper Scissors"
 python rock_paper_scissors.py
 ```
 
-### 8. 💰 **Tip Calculator**
+### 9. 💰 **Tip Calculator**
 Never struggle with restaurant math again!
 
 **Features:**
@@ -117,7 +132,7 @@ cd "Tip Calculator"
 python tip_calculator.py
 ```
 
-### 9. 🏴‍☠️ **Treasure Island**
+### 10. 🏴‍☠️ **Treasure Island**
 An epic text-based adventure where your choices determine your fate!
 
 **Features:**
@@ -140,6 +155,7 @@ python-projects/
 ├── Caesar Cipher/
 ├── Calculator/
 ├── Hangman/
+├── Number Guessing/
 ├── Password Generator/
 ├── Rock Paper Scissors/
 ├── Tip Calculator/
