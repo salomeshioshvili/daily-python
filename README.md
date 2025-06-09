@@ -33,6 +33,7 @@ cd "Blind Auction"
 python blind_auction.py
 ```
 
+
 ### 3. 🔐 **Caesar Cipher**
 Ancient Roman encryption meets modern Python! Encode and decode secret messages.
 
@@ -46,6 +47,7 @@ Ancient Roman encryption meets modern Python! Encode and decode secret messages.
 cd "Caesar Cipher"
 python caesar_cipher.py
 ```
+
 
 ### 4. 🧮 **Calculator**
 A sleek calculator that handles your math needs with style!
@@ -61,6 +63,7 @@ cd Calculator
 python calculator.py
 ```
 
+
 ### 5. 🎯 **Hangman**
 The classic word-guessing game! Can you save the stick figure?
 
@@ -75,7 +78,23 @@ cd Hangman
 python hangman.py
 ```
 
-### 6. 🔢 **Number Guessing Game**
+
+### 6. 📊 **Higher Lower Game**
+Test your knowledge of social media popularity by guessing who has more followers!
+
+**Features:**
+- 🔢 Compare two accounts' follower counts
+- 🎮 Continuous gameplay with score tracking
+- 🎨 Beautiful ASCII art interface
+
+**How to Run:**
+```bash
+cd "Higher Lower"
+python higher_lower.py
+```
+
+
+### 7. 🔢 **Number Guessing Game**
 Test your intuition and guess the number the computer is thinking of!
 
 **Features:**
@@ -90,7 +109,7 @@ python number_guessing.py
 ```
 
 
-### 7. 🔑 **Password Generator**
+### 8. 🔑 **Password Generator**
 Create bulletproof passwords!
 
 **Features:**
@@ -104,7 +123,8 @@ cd "Password Generator"
 python password_generator.py
 ```
 
-### 8. ✂️ **Rock Paper Scissors**
+
+### 9. ✂️ **Rock Paper Scissors**
 The timeless battle of hand gestures against the computer!
 
 **Features:**
@@ -118,7 +138,8 @@ cd "Rock Paper Scissors"
 python rock_paper_scissors.py
 ```
 
-### 9. 💰 **Tip Calculator**
+
+### 10. 💰 **Tip Calculator**
 Never struggle with restaurant math again!
 
 **Features:**
@@ -132,7 +153,8 @@ cd "Tip Calculator"
 python tip_calculator.py
 ```
 
-### 10. 🏴‍☠️ **Treasure Island**
+
+### 11. 🏴‍☠️ **Treasure Island**
 An epic text-based adventure where your choices determine your fate!
 
 **Features:**
@@ -155,6 +177,7 @@ python-projects/
 ├── Caesar Cipher/
 ├── Calculator/
 ├── Hangman/
+├── Higher Lower/
 ├── Number Guessing/
 ├── Password Generator/
 ├── Rock Paper Scissors/
