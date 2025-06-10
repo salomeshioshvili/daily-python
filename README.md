@@ -63,8 +63,23 @@ cd Calculator
 python calculator.py
 ```
 
+### 5. ☕ **Coffee Machine**
+Simulate a coffee machine that serves espresso, latte, and cappuccino!
 
-### 5. 🎯 **Hangman**
+**Features:**
+- 🛠️ Resource management (water, milk, coffee)
+- 💰 Coin-based payment system
+- 📊 Resource report generation
+- 🔄 Continuous operation until turned off
+
+**How to Run:**
+```bash
+cd "Coffee Machine"
+python coffee_machine.py
+```
+
+
+### 6. 🎯 **Hangman**
 The classic word-guessing game! Can you save the stick figure?
 
 **Features:**
@@ -79,7 +94,7 @@ python hangman.py
 ```
 
 
-### 6. 📊 **Higher Lower Game**
+### 7. 📊 **Higher Lower Game**
 Test your knowledge of social media popularity by guessing who has more followers!
 
 **Features:**
@@ -94,7 +109,7 @@ python higher_lower.py
 ```
 
 
-### 7. 🔢 **Number Guessing Game**
+### 8. 🔢 **Number Guessing Game**
 Test your intuition and guess the number the computer is thinking of!
 
 **Features:**
@@ -109,7 +124,7 @@ python number_guessing.py
 ```
 
 
-### 8. 🔑 **Password Generator**
+### 9. 🔑 **Password Generator**
 Create bulletproof passwords!
 
 **Features:**
@@ -124,7 +139,7 @@ python password_generator.py
 ```
 
 
-### 9. ✂️ **Rock Paper Scissors**
+### 10. ✂️ **Rock Paper Scissors**
 The timeless battle of hand gestures against the computer!
 
 **Features:**
@@ -139,7 +154,7 @@ python rock_paper_scissors.py
 ```
 
 
-### 10. 💰 **Tip Calculator**
+### 11. 💰 **Tip Calculator**
 Never struggle with restaurant math again!
 
 **Features:**
@@ -154,7 +169,7 @@ python tip_calculator.py
 ```
 
 
-### 11. 🏴‍☠️ **Treasure Island**
+### 12. 🏴‍☠️ **Treasure Island**
 An epic text-based adventure where your choices determine your fate!
 
 **Features:**
