@@ -191,6 +191,7 @@ python-projects/
 ├── Blind Auction/
 ├── Caesar Cipher/
 ├── Calculator/
+├── Coffee Machine/
 ├── Hangman/
 ├── Higher Lower/
 ├── Number Guessing/
