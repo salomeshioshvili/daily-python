@@ -139,7 +139,22 @@ python password_generator.py
 ```
 
 
-### 10. ✂️ **Rock Paper Scissors**
+### 10. ❓ **Quiz Game**
+Test your knowledge with a fun True/False quiz game!
+
+**Features:**
+- 📚 Dynamic question bank
+- 🧠 Score tracking
+- 🔄 Continuous gameplay until all questions are answered
+
+**How to Run:**
+```bash
+cd "Quiz Game"
+python main.py
+```
+
+
+### 11. ✂️ **Rock Paper Scissors**
 The timeless battle of hand gestures against the computer!
 
 **Features:**
@@ -154,7 +169,7 @@ python rock_paper_scissors.py
 ```
 
 
-### 11. 💰 **Tip Calculator**
+### 12. 💰 **Tip Calculator**
 Never struggle with restaurant math again!
 
 **Features:**
@@ -169,7 +184,7 @@ python tip_calculator.py
 ```
 
 
-### 12. 🏴‍☠️ **Treasure Island**
+### 13. 🏴‍☠️ **Treasure Island**
 An epic text-based adventure where your choices determine your fate!
 
 **Features:**
@@ -196,6 +211,7 @@ python-projects/
 ├── Higher Lower/
 ├── Number Guessing/
 ├── Password Generator/
+├── Quiz Game/
 ├── Rock Paper Scissors/
 ├── Tip Calculator/
 ├── Treasure Island/
