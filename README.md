@@ -109,7 +109,22 @@ python higher_lower.py
 ```
 
 
-### 8. 🔢 **Number Guessing Game**
+### 8. 🎨 **Hirst Painting**
+Create a beautiful dot painting inspired by Damien Hirst's artwork!
+
+**Features:**
+- 🎨 Dynamic color palette
+- 🖌️ Turtle graphics for painting
+- 🔄 Automated dot placement
+
+**How to Run:**
+```bash
+cd "Hirst Painting"
+python hirst_painting.py
+```
+
+
+### 9. 🔢 **Number Guessing Game**
 Test your intuition and guess the number the computer is thinking of!
 
 **Features:**
@@ -124,7 +139,7 @@ python number_guessing.py
 ```
 
 
-### 9. 🔑 **Password Generator**
+### 10. 🔑 **Password Generator**
 Create bulletproof passwords!
 
 **Features:**
@@ -139,7 +154,7 @@ python password_generator.py
 ```
 
 
-### 10. ❓ **Quiz Game**
+### 11. ❓ **Quiz Game**
 Test your knowledge with a fun True/False quiz game!
 
 **Features:**
@@ -154,7 +169,7 @@ python main.py
 ```
 
 
-### 11. ✂️ **Rock Paper Scissors**
+### 12. ✂️ **Rock Paper Scissors**
 The timeless battle of hand gestures against the computer!
 
 **Features:**
@@ -169,7 +184,7 @@ python rock_paper_scissors.py
 ```
 
 
-### 12. 💰 **Tip Calculator**
+### 13. 💰 **Tip Calculator**
 Never struggle with restaurant math again!
 
 **Features:**
@@ -184,7 +199,7 @@ python tip_calculator.py
 ```
 
 
-### 13. 🏴‍☠️ **Treasure Island**
+### 14. 🏴‍☠️ **Treasure Island**
 An epic text-based adventure where your choices determine your fate!
 
 **Features:**
@@ -201,7 +216,7 @@ python treasure_island.py
 
 ## 📁 Repository Structure
 ```
-python-projects/
+daily-python/
 ├── Blackjack/
 ├── Blind Auction/
 ├── Caesar Cipher/
@@ -209,6 +224,7 @@ python-projects/
 ├── Coffee Machine/
 ├── Hangman/
 ├── Higher Lower/
+├── Hirst Painting/
 ├── Number Guessing/
 ├── Password Generator/
 ├── Quiz Game/
