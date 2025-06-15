@@ -212,6 +212,20 @@ cd "Treasure Island"
 python treasure_island.py
 ```
 
+### 15. 🐢 **Turtle Race**
+A fun racing game where colorful turtles compete to reach the finish line!
+
+**Features:**
+- 🎨 Multiple turtles with colors
+- 🏁 Randomized race outcomes
+- 🎮 Interactive betting system
+
+**How to Run:**
+```bash
+cd "Turtle Race"
+python turtle_race.py
+```
+
 ---
 
 ## 📁 Repository Structure
@@ -231,6 +245,7 @@ daily-python/
 ├── Rock Paper Scissors/
 ├── Tip Calculator/
 ├── Treasure Island/
+├── Turtle Race/
 └── README.md
 ```
 
