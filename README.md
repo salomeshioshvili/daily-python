@@ -154,7 +154,22 @@ python password_generator.py
 ```
 
 
-### 11. ❓ **Quiz Game**
+### 11. 🏓 **Pong Game**
+A fun arcade-style game where you control a paddle to bounce the ball and score points!
+
+**Features:**
+- 🕹️ Paddle control with keyboard
+- 🎯 Ball physics and collision detection
+- 🏆 Score tracking
+
+**How to Run:**
+```bash
+cd "Pong Game"
+python main.py
+```
+
+
+### 12. ❓ **Quiz Game**
 Test your knowledge with a fun True/False quiz game!
 
 **Features:**
@@ -169,7 +184,7 @@ python main.py
 ```
 
 
-### 12. ✂️ **Rock Paper Scissors**
+### 13. ✂️ **Rock Paper Scissors**
 The timeless battle of hand gestures against the computer!
 
 **Features:**
@@ -184,7 +199,22 @@ python rock_paper_scissors.py
 ```
 
 
-### 13. 💰 **Tip Calculator**
+### 14. 🐍 **Snake Game**
+Guide the snake to eat food and grow longer while avoiding collisions!
+
+**Features:**
+- 🎮 Classic snake gameplay
+- 🐍 Dynamic snake growth
+- 🏆 Score tracking
+
+**How to Run:**
+```bash
+cd "Snake Game"
+python main.py
+```
+
+
+### 15. 💰 **Tip Calculator**
 Never struggle with restaurant math again!
 
 **Features:**
@@ -199,7 +229,7 @@ python tip_calculator.py
 ```
 
 
-### 14. 🏴‍☠️ **Treasure Island**
+### 16. 🏴‍☠️ **Treasure Island**
 An epic text-based adventure where your choices determine your fate!
 
 **Features:**
@@ -212,7 +242,8 @@ cd "Treasure Island"
 python treasure_island.py
 ```
 
-### 15. 🐢 **Turtle Race**
+
+### 17. 🐢 **Turtle Race**
 A fun racing game where colorful turtles compete to reach the finish line!
 
 **Features:**
@@ -241,9 +272,11 @@ daily-python/
 ├── Hirst Painting/
 ├── Number Guessing/
 ├── Password Generator/
+├── Pong Game/
 ├── Quiz Game/
 ├── Rock Paper Scissors/
 ├── Tip Calculator/
+├── Snake Game/
 ├── Treasure Island/
 ├── Turtle Race/
 └── README.md
@@ -269,6 +302,6 @@ Each project folder contains:
 - ASCII art files (where applicable)
 
 👋 Connect With Me
-Created with ❤️ by salomeshioshvili 
+Created with ❤️ by Salome Shioshvili 
 
 ---
