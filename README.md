@@ -243,7 +243,21 @@ python treasure_island.py
 ```
 
 
-### 17. 🐢 **Turtle Race**
+### 17. 🐢 **Turtle Crossing**
+Help the turtle cross the road while avoiding obstacles!
+
+**Features:**
+- 🚗 Dynamic obstacle movement
+- 🏆 Level progression and score tracking
+
+**How to Run:**
+```bash
+cd "Turtle Crossing"
+python main.py
+```
+
+
+### 18. 🐢 **Turtle Race**
 A fun racing game where colorful turtles compete to reach the finish line!
 
 **Features:**
@@ -278,6 +292,7 @@ daily-python/
 ├── Tip Calculator/
 ├── Snake Game/
 ├── Treasure Island/
+├── Turtle Crossing/
 ├── Turtle Race/
 └── README.md
 ```
