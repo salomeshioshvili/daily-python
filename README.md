@@ -60,6 +60,16 @@ A fun racing game where colorful turtles compete to reach the finish line!
 - 🎮 Interactive betting system
 
 
+#### 🗺️ **US States Game**
+Test your knowledge of US geography by naming all 50 states!
+
+**Features:**
+- 🗺️ Interactive map using Turtle graphics
+- 📝 Type state names to fill the map
+- 🏆 Score tracking and completion feedback
+- 📋 Learn missed states at the end
+
+
 ### Guessing & Strategy Games
 
 #### 🎯 **Hangman**
@@ -237,7 +247,8 @@ daily-python/
 │   ├── Snake Game/
 │   ├── Treasure Island/
 │   ├── Turtle Crossing/
-│   └──Turtle Race/
+│   ├── Turtle Race/
+│   └── US States Game/
 ├── 🛠️ Utilities/
 │   ├── Blind Auction/
 │   ├── Caesar Cipher/
@@ -251,7 +262,7 @@ daily-python/
 
 ## 📈 Project Statistics
 
-- **Total Projects:** 19
+- **Total Projects:** 20
 - **Lines of Code:** 2,000+ (estimated)
 - **Concepts Covered:** 15+
 - **Categories:** 3 (Games, Utilities, Creative)

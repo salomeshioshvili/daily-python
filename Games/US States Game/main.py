@@ -38,6 +38,7 @@ if len(guessed_states) == 50:
     congrats.hideturtle()
     congrats.penup()
     congrats.goto(0, 0)
+    congrats.color("green")
     congrats.write("Congratulations! You guessed all the states!", align="center", font=("Arial", 24, "bold"))
 
 screen.exitonclick()
