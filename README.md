@@ -159,6 +159,15 @@ Ancient Roman encryption meets modern Python! Encode and decode secret messages.
 - 🎲 Custom shift patterns
 
 
+#### 📡 **NATO Alphabet Converter**
+Convert names to NATO phonetic alphabet for clear communication!
+
+**Features:**
+- 👤 Name to NATO phonetic conversion
+- 📻 Perfect for spelling names over phone
+- 🎯 Clear pronunciation guide
+
+
 #### 📧 **Mail Merge**
 Automate the creation of personalized letters or emails for multiple recipients!
 
@@ -255,6 +264,7 @@ daily-python/
 │   ├── Calculator/
 │   ├── Coffee Machine/
 │   ├── Mail Merge/
+│   ├── NATO Alphabet Converter/
 │   ├── Password Generator/
 │   └── Tip Calculator/
 └── README.md
@@ -262,7 +272,7 @@ daily-python/
 
 ## 📈 Project Statistics
 
-- **Total Projects:** 20
+- **Total Projects:** 21
 - **Lines of Code:** 2,000+ (estimated)
 - **Concepts Covered:** 15+
 - **Categories:** 3 (Games, Utilities, Creative)
